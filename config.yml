@@ -1,5 +1,5 @@
 baseURL: "https://chaeeun-h.github.io/" 
-title: Prof. Name
+title: Chaeeun Han
 paginate: 20
 theme: PaperMod
 
@@ -21,11 +21,11 @@ menu:
           url: data/
           weight: 3 
         - name: Newsletter
-          url: https://pmichaillat.substack.com
+          url:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
+    description: "I am a Ph.D. candidate of Information Science and Technology at the Pennsylvanis State University. . My research covers various topics.
 consequat."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
@@ -64,14 +64,14 @@ consequat."
             - name: Data
               url: data/
             - name: Newsletter
-              url: https://pmichaillat.substack.com
+              url: 
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Chaeeun Han_CV.pdf
         - name: Email
           url: mailto:cfh5554@psu.edu
         - name: Location
@@ -96,7 +96,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Chaeeun Han"
       icon: favicon.ico
       iconHeight: 18
 

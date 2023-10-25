@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Prof. Name</title>
+    <title>Tags on Chaeeun Han</title>
     <link>https://chaeeun-h.github.io/tags/</link>
-    <description>Recent content in Tags on Prof. Name</description>
+    <description>Recent content in Tags on Chaeeun Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chaeeun-h.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -76,6 +76,33 @@
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://chaeeun-h.github.io/tags/keyword-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book recommendation</title>
+      <link>https://chaeeun-h.github.io/tags/book-recommendation/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/tags/book-recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recommendation system</title>
+      <link>https://chaeeun-h.github.io/tags/recommendation-system/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/tags/recommendation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>university library</title>
+      <link>https://chaeeun-h.github.io/tags/university-library/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/tags/university-library/</guid>
       <description></description>
     </item>
     

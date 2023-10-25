@@ -1,8 +1,8 @@
 ---
-title: "Course Title 1"
+title: "Introduction to Data Science"
 date: 2022-03-10
 tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Prof. Name"
+author: "Prof. Aron Laszka"
 description: "This graduate course presents things." 
 summary: "This graduate course presents various methods and results." 
 cover:
