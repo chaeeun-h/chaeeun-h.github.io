@@ -1,4 +1,4 @@
-baseURL: "https://chaeeun-han.org/" 
+baseURL: "https://chaeeun-h.github.io/" 
 title: Prof. Name
 paginate: 20
 theme: PaperMod
@@ -50,9 +50,9 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
+          title: Ph.D. Chaeeun Han
+          subtitle: "I am a Ph.D. candidate of Information Science and Technology at the Pennsylvanis State University. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Prof. Name
@@ -73,21 +73,21 @@ consequat."
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:cfh5554@psu.edu
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?hl=en&user=SZe3Kd8AAAAJ
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: 
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/chaeeun-h
         - name: Substack
           url: https://pmichaillat.substack.com
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/chae-kit-out
 
     assets:
         disableHLJS: true
