@@ -14,8 +14,8 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
+        - name: Projects
+          url: projects/
           weight: 2
         - name: Data
           url: data/
@@ -59,8 +59,8 @@ consequat."
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
+            - name: Projects
+              url: projects/
             - name: Data
               url: data/
             - name: Newsletter
@@ -81,11 +81,11 @@ consequat."
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=SZe3Kd8AAAAJ
         - name: YouTube
-          url: 
+          url: https://www.youtube.com/channel/UCThrhleXl5jLE3UKpn-MJrw
         - name: GitHub
           url: https://github.com/chaeeun-h
-        - name: Substack
-          url: https://pmichaillat.substack.com
+        - name: Blog
+          url: https://blog.naver.com/1julie6
         - name: Twitter
           url: https://twitter.com/chae-kit-out
 

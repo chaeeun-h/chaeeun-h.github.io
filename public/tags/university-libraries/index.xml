@@ -16,5 +16,14 @@
       <description>This paper shows personalized recommendation system in university libraries. Published in Workshop on AI &#43; Informetrics, AII 2021.</description>
     </item>
     
+    <item>
+      <title>Personalized Book Recommendation</title>
+      <link>https://chaeeun-h.github.io/projects/project3/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/projects/project3/</guid>
+      <description>This project presents how to personalize recommendation systems in university libraries.</description>
+    </item>
+    
   </channel>
 </rss>

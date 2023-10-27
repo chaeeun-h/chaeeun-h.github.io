@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>transit system on Chaeeun Han</title>
+    <link>https://chaeeun-h.github.io/tags/transit-system/</link>
+    <description>Recent content in transit system on Chaeeun Han</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chaeeun-h.github.io/tags/transit-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forecasting Bus Disruptions</title>
+      <link>https://chaeeun-h.github.io/projects/project2/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/projects/project2/</guid>
+      <description>This project presents how to forecast bus disruptions and dispatch reserved buses to stops.</description>
+    </item>
+    
+  </channel>
+</rss>

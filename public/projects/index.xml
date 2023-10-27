@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Chaeeun Han</title>
+    <link>https://chaeeun-h.github.io/projects/</link>
+    <description>Recent content in Projects on Chaeeun Han</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chaeeun-h.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual Active Search</title>
+      <link>https://chaeeun-h.github.io/projects/project4/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/projects/project4/</guid>
+      <description>This project presents how to detect image data correctly with small training dataset to defense machine learning models from poisoning attacks.</description>
+    </item>
+    
+    <item>
+      <title>Forecasting Bus Disruptions</title>
+      <link>https://chaeeun-h.github.io/projects/project2/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/projects/project2/</guid>
+      <description>This project presents how to forecast bus disruptions and dispatch reserved buses to stops.</description>
+    </item>
+    
+    <item>
+      <title>Detecting Fake Audios</title>
+      <link>https://chaeeun-h.github.io/projects/project1/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/projects/project1/</guid>
+      <description>This project uncovers human traits for detecting fake audios and build machine learning models according to them.</description>
+    </item>
+    
+    <item>
+      <title>Personalized Book Recommendation</title>
+      <link>https://chaeeun-h.github.io/projects/project3/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/projects/project3/</guid>
+      <description>This project presents how to personalize recommendation systems in university libraries.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,16 @@
     <description>Recent content on Chaeeun Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chaeeun-h.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chaeeun-h.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual Active Search</title>
+      <link>https://chaeeun-h.github.io/projects/project4/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/projects/project4/</guid>
+      <description>This project presents how to detect image data correctly with small training dataset to defense machine learning models from poisoning attacks.</description>
+    </item>
+    
     <item>
       <title>Dataset Title</title>
       <link>https://chaeeun-h.github.io/data/data1/</link>
@@ -17,21 +26,21 @@
     </item>
     
     <item>
-      <title>Introduction to Data Science</title>
-      <link>https://chaeeun-h.github.io/courses/course1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <title>Forecasting Bus Disruptions</title>
+      <link>https://chaeeun-h.github.io/projects/project2/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chaeeun-h.github.io/courses/course1/</guid>
-      <description>This graduate course presents things.</description>
+      <guid>https://chaeeun-h.github.io/projects/project2/</guid>
+      <description>This project presents how to forecast bus disruptions and dispatch reserved buses to stops.</description>
     </item>
     
     <item>
-      <title>Course Title 2</title>
-      <link>https://chaeeun-h.github.io/courses/course2/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Detecting Fake Audios</title>
+      <link>https://chaeeun-h.github.io/projects/project1/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://chaeeun-h.github.io/courses/course2/</guid>
-      <description>This undergraduate course presents many new things.</description>
+      <guid>https://chaeeun-h.github.io/projects/project1/</guid>
+      <description>This project uncovers human traits for detecting fake audios and build machine learning models according to them.</description>
     </item>
     
     <item>
@@ -50,6 +59,15 @@
       
       <guid>https://chaeeun-h.github.io/papers/paper2/</guid>
       <description>This paper shows personalized recommendation system in university libraries. Published in Workshop on AI &#43; Informetrics, AII 2021.</description>
+    </item>
+    
+    <item>
+      <title>Personalized Book Recommendation</title>
+      <link>https://chaeeun-h.github.io/projects/project3/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/projects/project3/</guid>
+      <description>This project presents how to personalize recommendation systems in university libraries.</description>
     </item>
     
     
