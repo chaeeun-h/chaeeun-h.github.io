@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deep Neural Networks on Chaeeun Han</title>
+    <link>https://chaeeun-h.github.io/tags/deep-neural-networks/</link>
+    <description>Recent content in Deep Neural Networks on Chaeeun Han</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chaeeun-h.github.io/tags/deep-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embedding-based neural network models for book recommendation in university libraries</title>
+      <link>https://chaeeun-h.github.io/papers/paper2/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/papers/paper2/</guid>
+      <description>This paper shows personalized recommendation system in university libraries. Published in Workshop on AI &#43; Informetrics, AII 2021.</description>
+    </item>
+    
+  </channel>
+</rss>

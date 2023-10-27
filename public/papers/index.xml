@@ -17,12 +17,12 @@
     </item>
     
     <item>
-      <title>Paper Title 2</title>
+      <title>Embedding-based neural network models for book recommendation in university libraries</title>
       <link>https://chaeeun-h.github.io/papers/paper2/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://chaeeun-h.github.io/papers/paper2/</guid>
-      <description>This paper shows other things. Published in Journal Name, 2015.</description>
+      <description>This paper shows personalized recommendation system in university libraries. Published in Workshop on AI &#43; Informetrics, AII 2021.</description>
     </item>
     
   </channel>

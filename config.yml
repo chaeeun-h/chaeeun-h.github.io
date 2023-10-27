@@ -51,7 +51,7 @@ consequat."
     profileMode:
           enabled: true
           title: Chaeeun Han
-          subtitle: "I am a Ph.D. candidate of Information Science and Technology at the Pennsylvanis State University. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          subtitle: "My name is Chaeeun Han, and I am a second-year Ph.D. student in the College of Information Sciences and Technology at The Pennsylvania State University. My advisor is Dr. Aron Laszka, and my research interests lie in solving decision-making problems in data science, machine learning security, and reinforcement learning. Recently, I have been working on projects related to detecting poisoned training data using active search and forecasting transportation disruptions."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160

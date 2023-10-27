@@ -1,10 +1,10 @@
 ---
-title: "Paper Title 2" 
-date: 2015-12-01
-tags: ["keyword 1","keyword 2","keyword 4"]
-author: ["Author Name 1", "Author Name 2"]
-description: "This paper shows other things. Published in Journal Name, 2015." 
-summary: "This paper shows other things using other techniques and different data." 
+title: "Embedding-based neural network models for book recommendation in university libraries" 
+date: 2021-03-01
+tags: ["Book Recommendataion","Deep Neural Networks","Recommendation System","University Libraries"]
+author: ["Jaeyoung Choi", "Chaeeun Han", "Heeyoon Yang", "Yeonkyoung Hong", "Seoyoung Jeon", "Yongjun Zhu"]
+description: "This paper shows personalized recommendation system in university libraries. Published in Workshop on AI + Informetrics, AII 2021." 
+summary: "In this study, we propose a library book recommendation system that uses embedding based neural network models." 
 cover:
     image: "paper2.png"
     alt: "Image caption"
@@ -20,14 +20,13 @@ editPost:
 ##### Download
 
 + [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/unemployment-gap)
++ [Code and data](https://github.com/chaeeun-h/CO-DEEP_Learning_2020_Fall)
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Recommendation systems have been widely used in various commercial applications for predicting the rating a user may give to an item. To encourage students to read more books, personalized book recommendation systems are of great interest in university libraries. Because university libraries do not ask students to rate books that they borrowed, book reviews and ratings are not available. Without book ratings, implementing personalized book recommendation systems in libraries is a challenging problem. In this study, we propose a library book recommendation system that uses embedding based neural network models. The system uses book metadata and user information as input features and deep learning models were used to create embeddings of the features. A multi-class classification model and a multi-label classification model were trained and soft voting was used to integrate the final outcomes. The performance of the models was evaluated by 72 university students and the multi-class classification model received 3.4 average points whereas the multi-label classification model scored 3.0 average points in the 5-Point Likert Scale.
 
 ---
 
@@ -39,18 +38,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Citation
 
-Author 1 and Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Choi, Jaeyoung, et al. "Embedding-based neural network models for book recommendation in university libraries." CEUR Workshop Proceedings. Vol. 2871. CEUR-WS, 2021.
 
 ```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
+@inproceedings{choi2021embedding,
+  title={Embedding-based neural network models for book recommendation in university libraries},
+  author={Choi, Jaeyoung and Han, Chaeeun and Yang, Heeyoon and Hong, Yeonkyoung and Jeon, Seoyoung and Zhu, Yongjun},
+  booktitle={CEUR Workshop Proceedings},
+  volume={2871},
+  pages={25--32},
+  year={2021},
+  organization={CEUR-WS}
+}
 ```
 
 ---

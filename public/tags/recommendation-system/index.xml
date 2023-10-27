@@ -16,5 +16,14 @@
       <description>This paper shows how a book recommendation system in university library can be personalized using machine learning models. Published in Journal of the Korean Society for information Management, 2021.</description>
     </item>
     
+    <item>
+      <title>Embedding-based neural network models for book recommendation in university libraries</title>
+      <link>https://chaeeun-h.github.io/papers/paper2/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/papers/paper2/</guid>
+      <description>This paper shows personalized recommendation system in university libraries. Published in Workshop on AI &#43; Informetrics, AII 2021.</description>
+    </item>
+    
   </channel>
 </rss>
