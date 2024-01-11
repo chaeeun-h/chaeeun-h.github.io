@@ -5,13 +5,13 @@ tags: ["Book Recommendataion","Deep Neural Networks","Recommendation System","Un
 author: ["Jaeyoung Choi", "Chaeeun Han", "Heeyoon Yang", "Yeonkyoung Hong", "Seoyoung Jeon", "Yongjun Zhu"]
 description: "This paper shows personalized recommendation system in university libraries. Published in Workshop on AI + Informetrics, AII 2021." 
 summary: "In this study, we propose a library book recommendation system that uses embedding based neural network models." 
-cover:
-    image: "paper2.png"
-    alt: "Image caption"
-    relative: false
+# cover:
+#     image: "paper2.png"
+#     alt: "Image caption"
+#     relative: false
 editPost:
-    URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Other Journal Name"
+    URL: "https://yonsei.elsevierpure.com/en/publications/embedding-based-neural-network-models-for-book-recommendation-in-/fingerprints/"
+    Text: "AI+Informatics 2021"
 
 ---
 

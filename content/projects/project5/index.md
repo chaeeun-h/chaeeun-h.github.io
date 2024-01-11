@@ -1,9 +1,9 @@
 ---
-title: "Social Media Analysis" 
+title: "Social Media Data Analysis" 
 date: 2022-01-03
 tags: ["NLP","Social Media","Data Driven Analysis"]
 author: ["Prof. Jess Kropczynski", "Prof. Shane E Halse", "Prof. Souhyun Jang"]
-description: "This is an archive of projects related to analyzing text data scraped from online such as Twitter, Reddit, or CNN. The goal of these works are to delve into various social trends such as people's sentiments and interests related to several different social topics within social media posts." 
+description: "This is an archive of projects related to analyzing text data scraped from online such as Twitter, Reddit, or all kinds of online social media data. The goal of these works are to delve into various social trends such as people's sentiments and interests related to several different social topics within social media posts using natural language processing models." 
 summary: "This project navigates social media dataset to follow the social trends and understand users' emotions and interest." 
 cover:
     image: "project5.png"

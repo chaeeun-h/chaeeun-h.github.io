@@ -5,10 +5,10 @@ tags: ["university library","recommendation system","book recommendation"]
 author: "Yeonkyoung Hong, Seoyoung Jeon, Jaeyoung Choi, Heeyoon Yang, Chaeeun Han, Yongjun Zhu"
 description: "This paper shows how a book recommendation system in university library can be personalized using machine learning models. Published in Journal of the Korean Society for information Management, 2021." 
 summary: "This paper shows how a book recommendation system in university library can be personalized using machine learning models." 
-cover:
-    image: "paper1.png"
-    alt: "Image caption"
-    relative: false
+# cover:
+#     image: "paper1.png"
+#     alt: "Image caption"
+#     relative: false
 editPost:
     URL: "https://koreascience.kr/article/JAKO202120164047428.pdf"
     Text: "Journal of the Korean Society for information Management"

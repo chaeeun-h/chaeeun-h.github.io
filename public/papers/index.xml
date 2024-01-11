@@ -6,7 +6,25 @@
     <description>Recent content in Papers on Chaeeun Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chaeeun-h.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://chaeeun-h.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forecasting and Mitigating Disruptions in Public Bus Transit Services</title>
+      <link>https://chaeeun-h.github.io/papers/paper4/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/papers/paper4/</guid>
+      <description>This paper shows the disruptions forecasting model and bus-dispatch simulation according to them. Published in Conference AAMAS 2024 (Acceptance rate: 25%)</description>
+    </item>
+    
+    <item>
+      <title>A Framework for Perception Analysis of Social Media Data During Disease Outbreaks: Uncovering Patterns of Resentment Towards Bats. </title>
+      <link>https://chaeeun-h.github.io/papers/paper3/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/papers/paper3/</guid>
+      <description>This paper shows a domain-specific machine learning framework for analyzing social media data. Published in HICSS57.</description>
+    </item>
+    
     <item>
       <title>A study on the development and evaluation of personalized book recommendation systems in university libraries based on individual loan records</title>
       <link>https://chaeeun-h.github.io/papers/paper1/</link>
