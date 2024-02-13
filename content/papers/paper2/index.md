@@ -30,7 +30,7 @@ Recommendation systems have been widely used in various commercial applications 
 
 ---
 
-##### Figure X: Figure caption
+##### Figure 1: The proposed model architecture for multi-class and multi-label model
 
 ![](paper2.png)
 

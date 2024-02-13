@@ -6,13 +6,58 @@
     <description>Recent content in Tags on Chaeeun Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://chaeeun-h.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://chaeeun-h.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data-Driven Optimization</title>
       <link>https://chaeeun-h.github.io/tags/data-driven-optimization/</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://chaeeun-h.github.io/tags/data-driven-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dispatch Problem</title>
+      <link>https://chaeeun-h.github.io/tags/dispatch-problem/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/tags/dispatch-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metaheuristic Optimization</title>
+      <link>https://chaeeun-h.github.io/tags/metaheuristic-optimization/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/tags/metaheuristic-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Tree Search</title>
+      <link>https://chaeeun-h.github.io/tags/monte-carlo-tree-search/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/tags/monte-carlo-tree-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Transportation</title>
+      <link>https://chaeeun-h.github.io/tags/public-transportation/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/tags/public-transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>https://chaeeun-h.github.io/tags/simulation/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaeeun-h.github.io/tags/simulation/</guid>
       <description></description>
     </item>
     
@@ -22,33 +67,6 @@
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://chaeeun-h.github.io/tags/disruption-forecasting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metaheuristic Optimization</title>
-      <link>https://chaeeun-h.github.io/tags/metaheuristic-optimization/</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://chaeeun-h.github.io/tags/metaheuristic-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public Transportation</title>
-      <link>https://chaeeun-h.github.io/tags/public-transportation/</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://chaeeun-h.github.io/tags/public-transportation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulation</title>
-      <link>https://chaeeun-h.github.io/tags/simulation/</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://chaeeun-h.github.io/tags/simulation/</guid>
       <description></description>
     </item>
     

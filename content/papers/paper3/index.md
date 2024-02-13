@@ -33,7 +33,7 @@ Despite the growing number of natural language processing (NLP) tools developed 
 
 ---
 
-##### Figure X: Figure caption
+##### Figure 1: Practical Demo of Coreference Resolution
 
 ![](paper3.png)
 

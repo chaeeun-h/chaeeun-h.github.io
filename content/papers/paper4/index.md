@@ -30,7 +30,7 @@ Public transportation systems often suffer from unexpected fluctuations in deman
 
 ---
 
-##### Figure X: Figure caption
+##### Figure 1: Disruptions, such as traffic accidents, hamper the reliability of the service provided by our partner transit agency.
 
 ![](paper4.png)
 
