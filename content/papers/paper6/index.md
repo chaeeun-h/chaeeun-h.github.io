@@ -40,9 +40,12 @@ This study examines the impact of the COVID-19 pandemic on information-seeking b
 Youm, S, Han, C., Jang, SH. Information Seeking and Communication among International Students on Reddit.
 
 ```BibTeX
-@article{talusanonline,
-  title={An Online Approach to Solving Public Transit Stationing and Dispatch Problem},
-  author={Talusan, Jose Paolo and Han, Chaeeun and Mukhopadhyay, Ayan and Laszka, Aron and Freudberg, Dan and Dubey, Abhishek}
+@inproceedings{inproceedings,
+author = {Han, Chaeeun},
+year = {2024},
+month = {05},
+pages = {},
+title = {Information Seeking and Communication among International Students on Reddit}
 }
 ```
 
