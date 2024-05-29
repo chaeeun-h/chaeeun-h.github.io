@@ -11,18 +11,12 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 1
         - name: Projects
           url: projects/
           weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url:
-          weight: 4
 
 params:
     description: "I am a Ph.D. candidate of Information Science and Technology at the Pennsylvanis State University. . My research covers various topics.
@@ -57,16 +51,10 @@ consequat."
           imageHeight: 160
           imageTitle: Prof. Name
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
             - name: Projects
               url: projects/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: 
-            - name: Tags
-              url: tags/
             - name: Archive
               url: archive/
     socialIcons:
@@ -80,12 +68,8 @@ consequat."
           url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=SZe3Kd8AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/channel/UCd7jKDoatj4iDKLcRmbHNPg
         - name: GitHub
           url: https://github.com/chaeeun-h
-        - name: Blog
-          url: https://blog.naver.com/1julie6
         - name: Twitter
           url: https://twitter.com/chae-kit-out
 
