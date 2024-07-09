@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+My name is Chaeeun Han, and I am a third-year Ph.D. student in the College of Information Sciences and Technology at Pennsylvania State University. My advisor is Dr. Aron Laszka, and my research interests lie in machine learning (security, cyber-physical system, active learning), and computational social science. Recently, I have been working on projects related to detecting poisoned training data using active search and forecasting transportation disruptions."
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** active-learning, reinforcement learning, machine learning for security
+- **Cyber Physical System:** transportation
+- **Computerational Social Science:** nlp, social media, network science
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2023]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[May. 2023]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Aug. 2022]** Our paper about few-shot learning is accepted to NeurIPS 2019.
+- **[Aug. 2021]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
