@@ -17,8 +17,7 @@ main:
     notes: Oral Presentation
 
   - title: "A Framework for Perception Analysis of Social Media Data During Disease Outbreaks: Uncovering Patterns of Resentment Towards Bats" 
-    authors: Izunna Okpala, Guillermo Romera Rodriguez, <strong>Chaeeun Han</strong>, Melissa Meierhofer, Stefano Mammola, Shane Halse,
-Jess Kropczynski, Joseph Johnson
+    authors: Izunna Okpala, Guillermo Romera Rodriguez, <strong>Chaeeun Han</strong>, Melissa Meierhofer, Stefano Mammola, Shane Halse, Jess Kropczynski, Joseph Johnson
     conference_short: HICSS
     conference: Hawaii International Conference on System Sciences <strong>(HICSS)</strong>, 2024.
     pdf: https://hdl.handle.net/10125/106683
@@ -50,3 +49,10 @@ Jess Kropczynski, Joseph Johnson
     pdf: https://a11y.ist.psu.edu/downloads/real_vs_fake_audio.pdf
     bibtex: https://tinyurl.com/mubrvxas
     notes: Oral Presentation
+
+  - title: "Information Seeking and Communication among International Students on Reddit"
+    authors: <strong>Chaeeun Han</strong>, Sangpil Youm, Sou Hyun Jang
+    conference_short: IC2S2
+    conference: 10th International Conference on Computational Social Science <strong>(CHI)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2407.06506
+    notes: Post Presentation
