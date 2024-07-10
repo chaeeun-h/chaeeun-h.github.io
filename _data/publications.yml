@@ -13,6 +13,7 @@ main:
     pdf: https://a11y.ist.psu.edu/downloads/real_vs_fake_audio.pdf
     bibtex: https://tinyurl.com/mubrvxas
     presentation: https://youtu.be/pAIOztVAL38?si=LjajMr0hM0P55rHa
+    slides: https://drive.google.com/file/d/1BEQ1wUT9P2Ng-Zr8euTTZNOZlhGfU_DF/view?usp=sharing
 
   - title: An Online Approach to Solving Public Transit Stationing and Dispatch Problem
     authors: Jose Paolo Talusan, <strong>Chaeeun Han</strong>, Ayan Mukhopadhyay, Aron Laszka, Dan Freudberg,  Abhishek Dubey
@@ -30,6 +31,8 @@ main:
     pdf: https://arxiv.org/pdf/2403.04072
     code: https://github.com/chaeeun-h/bus-disruption-forecast
     page: https://aronlaszka.com/project/ai-engine/
+    slides: https://drive.google.com/file/d/10-LZIvaYIVdT0aHUSLxnccUM1PA3L0gW/view?usp=sharing
+    poster: https://drive.google.com/file/d/1m7ZNkYFPkbukzLdLI2iO-9VNZAqoNAe0/view?usp=sharing
     notes: "Acceptance rate: 25%"
 
   - title: "A Framework for Perception Analysis of Social Media Data During Disease Outbreaks: Uncovering Patterns of Resentment Towards Bats"
