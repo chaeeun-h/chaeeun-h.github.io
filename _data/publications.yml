@@ -7,14 +7,6 @@ main:
     pdf: https://arxiv.org/pdf/2407.06506
     others: Poster Presentation
 
-  - title: "Uncovering Human Traits in Determining Real and Spoofed Audio: Insights from Blind and Sighted Individuals"
-    authors: <strong>Chaeeun Han</strong>, Prasenjit Mitra, Syed Masum Billah
-    conference_short: CHI
-    conference: ACM/CHI Conference on Human Factors in Computing Systems <strong>(CHI)</strong>, 2024.
-    pdf: https://a11y.ist.psu.edu/downloads/real_vs_fake_audio.pdf
-    bibtex: https://tinyurl.com/mubrvxas
-    others: [Presentation](https://youtu.be/pAIOztVAL38?si=LjajMr0hM0P55rHa)
-
   - title: An Online Approach to Solving Public Transit Stationing and Dispatch Problem
     authors: Jose Paolo Talusan, <strong>Chaeeun Han</strong>, Ayan Mukhopadhyay, Aron Laszka, Dan Freudberg,  Abhishek Dubey
     conference_short: ICCPS
