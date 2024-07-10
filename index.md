@@ -13,11 +13,13 @@ My name is Chaeeun Han, and I am a third-year Ph.D. student in the College of In
 - **Computerational Social Science:** nlp, social media, network science
 
 ## News
-
-- **[Dec. 2023]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[May. 2023]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Aug. 2022]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Aug. 2021]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2024]** Our paper about detecting spoofed audio is accepted to CHI24.
+- **[Mar. 2024]** Our paper about public transit stationing is accepted to ICCPS24.
+- **[Mar. 2024]** Our paper about forecasting public bus disruption is accepted to AAMAS2024.
+- **[Sep. 2023]** Our paper about perception analysis is accepted to HICSS57.
+- **[May. 2023]** I passed my Qualifying Exam!
+- **[Aug. 2022]** I am starting my Ph.D. in IST at PSU.
+- **[Aug. 2021]** I am starting a Master's program in IST at PSU.
 
 {% include_relative _includes/publications.md %}
 
