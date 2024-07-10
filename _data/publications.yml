@@ -5,7 +5,6 @@ main:
     conference_short: IC2S2
     conference: 10th International Conference on Computational Social Science <strong>(IC2S2)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2407.06506
-    others: Poster Presentation
 
   - title: "Uncovering Human Traits in Determining Real and Spoofed Audio: Insights from Blind and Sighted Individuals"
     authors: <strong>Chaeeun Han</strong>, Prasenjit Mitra, Syed Masum Billah
@@ -13,7 +12,7 @@ main:
     conference: ACM/CHI Conference on Human Factors in Computing Systems <strong>(CHI)</strong>, 2024.
     pdf: https://a11y.ist.psu.edu/downloads/real_vs_fake_audio.pdf
     bibtex: https://tinyurl.com/mubrvxas
-    others: "[Presentation](https://youtu.be/pAIOztVAL38?si=LjajMr0hM0P55rHa)"
+    presentation: https://youtu.be/pAIOztVAL38?si=LjajMr0hM0P55rHa
 
   - title: An Online Approach to Solving Public Transit Stationing and Dispatch Problem
     authors: Jose Paolo Talusan, <strong>Chaeeun Han</strong>, Ayan Mukhopadhyay, Aron Laszka, Dan Freudberg,  Abhishek Dubey
@@ -21,7 +20,7 @@ main:
     conference: ACM/IEEE International Conference on Cyber-Physical Systems <strong>(ICCPS)</strong>, 2024.
     pdf: https://aronlaszka.com/papers/talusan2024online.pdf
     code: https://github.com/jptalusan/ICCPS2024_AE_Stationing
-    bibtex: https://tinyurl.com/2au9bewm
+    page: https://aronlaszka.com/project/ai-engine/
     notes: Best Paper Award
 
   - title: Forecasting and Mitigating Disruptions in Public Bus Transit Services
@@ -30,7 +29,7 @@ main:
     conference: International Conference on Autonomous Agents and Multiagent Systems <strong>(AAMAS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2403.04072
     code: https://github.com/chaeeun-h/bus-disruption-forecast
-    bibtex: https://shorturl.at/5zPMz
+    page: https://aronlaszka.com/project/ai-engine/
     notes: "Acceptance rate: 25%"
 
   - title: "A Framework for Perception Analysis of Social Media Data During Disease Outbreaks: Uncovering Patterns of Resentment Towards Bats"
@@ -47,7 +46,7 @@ main:
     pdf: https://yonsei.elsevierpure.com/en/publications/embedding-based-neural-network-models-for-book-recommendation-in-/fingerprints/
     code: https://github.com/chaeeun-h/CO-DEEP_Learning_2020_Fall
     bibtex: https://shorturl.at/42aYa
-    others: "[Presentation](https://youtu.be/o5XamvwLSJU?si=pinUMakOFG_ehXOf)"
+    presentation: https://youtu.be/o5XamvwLSJU?si=pinUMakOFG_ehXOf
 
   - title: A study on the development and evaluation of personalized book recommendation systems in university libraries based on individual loan records
     authors: Yeonkyoung Hong, Seoyoung Jeon, Jaeyoung Choi, Heeyoon Yang, <strong>Chaeeun Han</strong>, Yongjun Zhu
