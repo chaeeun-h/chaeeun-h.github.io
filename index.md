@@ -8,13 +8,9 @@ My name is Chaeeun Han, and I am a third-year Ph.D. student in the College of In
 
 ## Research Interests
 
-- **Machine Learning:** active-learning, reinforcement learning, machine learning for security
-- **Cyber Physical System:** transportation
-- **Computerational Social Science:** nlp, social media, network science
-
-## Education
-- **[Feb 2021]** B.S. in Library and Information Science, Statistics at SungKyunKwan University
-- **[May 2019]** iSchool visiting student at UNC, Chapel Hill
+- **Machine Learning:** Labeling, Optimization, Decision Making, Data Analytics, Security
+- **Cyber Physical System:** Transportation
+- **Computerational Social Science:** NLP, Social Media, Network Science
   
 
 ## News
