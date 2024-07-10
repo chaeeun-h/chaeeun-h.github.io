@@ -32,15 +32,6 @@ main:
     pdf: https://hdl.handle.net/10125/106683
     bibtex: https://shorturl.at/VjsRG
 
-  - title: Embedding-based neural network models for book recommendation in university libraries
-    authors: Jaeyoung Choi, <strong>Chaeeun Han</strong>, Heeyoon Yang, Yeonkyoung Hong, Seoyoung Jeon, Yongjun Zhu
-    conference_short: iConference
-    conference: iConference AI+Informatics <strong>(iConference)</strong>, 2021.
-    pdf: https://yonsei.elsevierpure.com/en/publications/embedding-based-neural-network-models-for-book-recommendation-in-/fingerprints/
-    code: https://github.com/chaeeun-h/CO-DEEP_Learning_2020_Fall
-    bibtex: https://shorturl.at/42aYa
-    others: [Presentation](https://youtu.be/o5XamvwLSJU?si=pinUMakOFG_ehXOf)
-
   - title: A study on the development and evaluation of personalized book recommendation systems in university libraries based on individual loan records
     authors: Yeonkyoung Hong, Seoyoung Jeon, Jaeyoung Choi, Heeyoon Yang, <strong>Chaeeun Han</strong>, Yongjun Zhu
     conference_short: JKSIM
