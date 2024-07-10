@@ -13,9 +13,8 @@ My name is Chaeeun Han, and I am a third-year Ph.D. student in the College of In
 - **Computerational Social Science:** nlp, social media, network science
 
 ## Education
-**[Feb 2021]** B.S. in Library and Information Science, Statistics at SungKyunKwan University
-
-**[May 2019]** iSchool visiting student at UNC, Chapel Hill
+- **[Feb 2021]** B.S. in Library and Information Science, Statistics at SungKyunKwan University
+- **[May 2019]** iSchool visiting student at UNC, Chapel Hill
   
 
 ## News
