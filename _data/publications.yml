@@ -31,7 +31,7 @@ main:
     pdf: https://arxiv.org/pdf/2403.04072
     code: https://github.com/chaeeun-h/bus-disruption-forecast
     bibtex: https://shorturl.at/5zPMz
-    notes: Oral Presentation (Acceptance rate: 25%)
+    notes: "Oral Presentation (Acceptance rate: 25%)"
 
   - title: "An Online Approach to Solving Public Transit Stationing and Dispatch Problem"
     authors: Jose Paolo Talusan, <strong>Chaeeun Han</strong>, Ayan Mukhopadhyay, Aron Laszka, Dan Freudberg,  Abhishek Dubey
@@ -55,4 +55,4 @@ main:
     conference_short: IC2S2
     conference: 10th International Conference on Computational Social Science <strong>(CHI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2407.06506
-    notes: Post Presentation
+    notes: Poster Presentation
