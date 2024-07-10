@@ -5,10 +5,7 @@ main:
     journal_short: JKSIM
     journal: Journal of the Korean Society for Information Management <strong>(JKSIM)</strong>, 2021.
     pdf: https://koreascience.kr/article/JAKO202120164047428.pdf
-    code: 
     bibtex: https://shorturl.at/hY0lx
-    image: 
-    notes: 
 
   - title: "Embedding-based neural network models for book recommendation in university libraries" 
     authors: Jaeyoung Choi, <strong>Chaeeun Han</strong>, Heeyoon Yang, Yeonkyoung Hong, Seoyoung Jeon, Yongjun Zhu
@@ -16,10 +13,8 @@ main:
     conference: iConference AI+Informatics <strong>(iConference)</strong>, 2021.
     pdf: https://yonsei.elsevierpure.com/en/publications/embedding-based-neural-network-models-for-book-recommendation-in-/fingerprints/
     code: https://github.com/chaeeun-h/CO-DEEP_Learning_2020_Fall
-    page: 
     bibtex: https://shorturl.at/42aYa
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
 
   - title: "A Framework for Perception Analysis of Social Media Data During Disease Outbreaks: Uncovering Patterns of Resentment Towards Bats" 
     authors: Izunna Okpala, Guillermo Romera Rodriguez, <strong>Chaeeun Han</strong>, Melissa Meierhofer, Stefano Mammola, Shane Halse,
@@ -29,7 +24,6 @@ Jess Kropczynski, Joseph Johnson
     pdf: https://hdl.handle.net/10125/106683
     page: https://hdl.handle.net/10125/106683
     bibtex: https://shorturl.at/VjsRG
-    image: ./assets/img/teaser_example.png
 
   - title: "Forecasting and Mitigating Disruptions in Public Bus Transit Services"
     authors: <strong>Chaeeun Han</strong>, Jose Paolo Talusan, Dan Freudberg, Ayan Mukhopadhyay, Abhishek Dubey, Aron Laszka
@@ -39,7 +33,6 @@ Jess Kropczynski, Joseph Johnson
     code: https://github.com/chaeeun-h/bus-disruption-forecast
     bibtex: https://shorturl.at/5zPMz
     notes: Oral Presentation (Acceptance rate: 25%)
-    image: ./assets/img/teaser_example.png
 
   - title: "An Online Approach to Solving Public Transit Stationing and Dispatch Problem"
     authors: Jose Paolo Talusan, <strong>Chaeeun Han</strong>, Ayan Mukhopadhyay, Aron Laszka, Dan Freudberg,  Abhishek Dubey
@@ -49,7 +42,6 @@ Jess Kropczynski, Joseph Johnson
     code: https://github.com/jptalusan/ICCPS2024_AE_Stationing
     bibtex: https://tinyurl.com/2au9bewm
     notes: Best Paper Award
-    image: ./assets/img/teaser_example.png
 
   - title: "Uncovering Human Traits in Determining Real and Spoofed Audio: Insights from Blind and Sighted Individuals"
     authors: <strong>Chaeeun Han</strong>, Prasenjit Mitra, Syed Masum Billah
@@ -58,4 +50,3 @@ Jess Kropczynski, Joseph Johnson
     pdf: https://a11y.ist.psu.edu/downloads/real_vs_fake_audio.pdf
     bibtex: https://tinyurl.com/mubrvxas
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
