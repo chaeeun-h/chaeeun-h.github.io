@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My name is Chaeeun Han, and I am a third-year Ph.D. student in the College of Information Sciences and Technology at Pennsylvania State University. My advisor is Dr. Aron Laszka([https://aronlaszka.com]), and my research interests lie in machine learning, cyber-physical system, and computational social science. Recently, I have been working on projects related to detecting poisoned training data using active search and forecasting transportation disruptions."
+My name is Chaeeun Han, and I am a third-year Ph.D. student in the College of Information Sciences and Technology at Pennsylvania State University. My advisor is [Dr. Aron Laszka](https://aronlaszka.com), and my research interests lie in machine learning, cyber-physical system, and computational social science. Recently, I have been working on projects related to detecting poisoned training data using active search and forecasting transportation disruptions."
 
 ## Research Interests
 
