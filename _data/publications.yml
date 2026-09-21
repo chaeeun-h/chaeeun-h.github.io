@@ -1,15 +1,15 @@
 main:
 
   - title: "SAGE: Similarity-Based Cleaning of Poisoned Training Data from Verified Examples"
-    authors: <strong>Chaeeun Han<\strong>, Soodeh Atefi, Yevgeniy Vorobeychik, Aron Laszka
+    authors: <strong>Chaeeun Han</strong>, Soodeh Atefi, Yevgeniy Vorobeychik, Aron Laszka
     conference_short: ICDMW
-    conference: IEEE International Conference on Data Mining Workshops <strong>(ICDMW)<\strong>, 2026.
+    conference: IEEE International Conference on Data Mining Workshops <strong>(ICDMW)</strong>, 2026.
     pdf:
     code: https://github.com/chaeeun-h/Cleaning_Poisoned_Training_Dataset
 
   - title: "From campus to society: How university newspapers and mainstream news frame international students in South Korea"
-    authors: <strong>Chaeeun Han<\strong>, Hyojong Song, Juyoung Song, Sou Hyun Jang
-    conference: Journal of International Students <strong>(JIS)<\strong>, 2026.
+    authors: <strong>Chaeeun Han</strong>, Hyojong Song, Juyoung Song, Sou Hyun Jang
+    conference: Journal of International Students <strong>(JIS)</strong>, 2026.
     pdf: https://www.ojed.org/jis/article/download/10848/4197
 
   - title: "Revisiting “Conceptualizing Stigma”: Unpacking Minority College Students’ Stigmatization on Reddit"
