@@ -1,5 +1,42 @@
 main:
 
+  - title: SAGE: Similarity-Based Cleaning of Poisoned Training Data from Verified Examples
+    authors: <strong>Chaeeun Han<\strong>, Soodeh Atefi, Yevgeniy Vorobeychik, Aron Laszka
+    conference_short: ICDMW
+    conference: IEEE International Conference on Data Mining Workshops <strong>(ICDMW)<\strong>, 2026.
+    pdf:
+    code: https://github.com/chaeeun-h/Cleaning_Poisoned_Training_Dataset
+
+  - title: From campus to society: How university newspapers and mainstream news frame international students in South Korea
+    authors: <strong>Chaeeun Han<\strong>, Hyojong Song, Juyoung Song, Sou Hyun Jang
+    conference: Journal of International Students <strong>(JIS)<\strong>, 2026.
+    pdf: https://www.ojed.org/jis/article/download/10848/4197
+
+  - title: Revisiting “Conceptualizing Stigma”: Unpacking Minority College Students’ Stigmatization on Reddit
+    authors: <strong>Chaeeun Han</strong>, Sangpil Youm, Hojeong Yoo, Sou Hyun Jang.
+    conference_short: Cyberpsychology, Behavior, and Social Networking
+    conference: Cyberpsychology, Behavior, and Social Networking <strong>(CBSN)</strong>, 2026.
+    pdf: https://www.researchgate.net/profile/Chaeeun-Han/publication/403240686_Revisiting_Conceptualizing_Stigma_Unpacking_Minority_College_Students'_Stigmatization_on_Reddit/links/6a4c0799a1fbd1634706aae9/Revisiting-Conceptualizing-Stigma-Unpacking-Minority-College-Students-Stigmatization-on-Reddit.pdf
+
+  - title: “I Still Need Your Help”: Online information seeking behavior of International Students in the United States on RedditBeyond Stereotypes: Exploring How Minority College Students Experience Stigma on Reddit
+    authors: Sangpil Youm, <strong>Chaeeun Han</strong>, Hojeong Yoo, Sou Hyun Jang, Bonnie J Dorr.
+    conference_short: Plos one
+    conference: Plos one, 2026.
+    pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341314
+    code: https://github.com/chaeeun-h/international_student_information_seeking
+
+  - title: An End-to-End Solution for Public Transit Stationing and Dispatch Problem
+    authors: Jose Paolo Talusan, <strong>Chaeeun Han</strong>, David Rogers, Ayan Mukhopadhyay, Aron Laszka, Dan Freudberg,  Abhishek Dubey
+    conference_short: TCPS
+    conference: ACM Transactions on Cyber-Physical Systems <strong>(TCPS)</strong>, 2025.
+    pdf: https://www.researchgate.net/profile/Aron-Laszka/publication/394712096_An_End-to-End_Solution_for_Public_Transit_Stationing_and_Dispatch_Problem/links/69b42c8f0df0500feff3f0a1/An-End-to-End-Solution-for-Public-Transit-Stationing-and-Dispatch-Problem.pdf
+    
+  - title: Beyond Stereotypes: Exploring How Minority College Students Experience Stigma on Reddit
+    authors: <strong>Chaeeun Han</strong>, Sangpil Youm, Hojeong Yoo, Sou Hyun Jang
+    conference_short: IC2S2
+    conference: 11th International Conference on Computational Social Science <strong>(IC2S2)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2504.13674
+  
   - title: Information Seeking and Communication among International Students on Reddit
     authors: <strong>Chaeeun Han</strong>, Sangpil Youm, Hojeong Yoo, Sou Hyun Jang
     conference_short: IC2S2
