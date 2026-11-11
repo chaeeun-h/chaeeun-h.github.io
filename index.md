@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My name is Chaeeun Han, and I am a fourth-year Ph.D. student in the College of Information Sciences and Technology at Pennsylvania State University. My advisor is [Dr. Aron Laszka](https://aronlaszka.com), and my research interests lie in machine learning security, cyber-physical system, and computational social science. Recently, I have been working on projects related to detecting poisoned training data using active search and forecasting transportation disruptions.
+My name is Chaeeun Han, and I am a fifth-year Ph.D. student in the College of Information Sciences and Technology at Pennsylvania State University. My advisor is [Dr. Aron Laszka](https://aronlaszka.com), and my research interests lie in machine learning security, cyber-physical system, and computational social science. Recently, I have been working on projects related to detecting poisoned training data using active search and forecasting transportation disruptions.
 
 ## Research Interests
 
@@ -14,6 +14,7 @@ My name is Chaeeun Han, and I am a fourth-year Ph.D. student in the College of I
   
 
 ## News
+- **[Oct. 2026]** Our paper on detecting triggerless clean-label attacks is accepted to the Machine Learning in Cybersecurity (MLC) Workshop at ICDM 2026.
 - **[June. 2025]** I passed Comprehensive Exam! Now, I'm ABD!
 - **[May. 2024]** Our paper about detecting spoofed audio is accepted to CHI24.
 - **[Mar. 2024]** Our paper about public transit stationing is accepted to ICCPS24.
