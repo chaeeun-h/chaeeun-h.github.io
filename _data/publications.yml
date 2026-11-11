@@ -4,7 +4,7 @@ main:
     authors: <strong>Chaeeun Han</strong>, Soodeh Atefi, Yevgeniy Vorobeychik, Aron Laszka
     conference_short: ICDMW
     conference: IEEE International Conference on Data Mining Workshops <strong>(ICDMW)</strong>, 2026.
-    pdf:
+    pdf: https://arxiv.org/pdf/2610.01788
     code: https://github.com/chaeeun-h/Cleaning_Poisoned_Training_Dataset
 
   - title: "From campus to society: How university newspapers and mainstream news frame international students in South Korea"
